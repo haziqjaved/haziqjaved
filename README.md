@@ -4,4 +4,6 @@
 🌱 currently learning React Native..
 💞️ Looking for internship
 📫 How to reach me: haziqjaved31@gmail.com
-(https://github-readme-stats.vercel.app/api?username=haziqjaved)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haziqjaved)](https://github.com/anuraghazra/github-readme-stats)
+
