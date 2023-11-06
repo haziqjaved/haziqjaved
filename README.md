@@ -1,8 +1,8 @@
 ### Hi there 👋
-👋 Hi, I’m Haziq Javed From Pakistan...
-👀 I’m interested in web and mobile App development
-🌱 currently learning React Native..
-💞️ Looking for internship
+👋 Hi, I’m Haziq Javed, i haved done my graduation in software engineering from sir syed university of Engineering & Technology....
+👀 I also have a small experience in  Web develoment 
+//🌱 currently learning React Native..//
+💞️ Looking for fulltime jobs
 📫 How to reach me: haziqjaved31@gmail.com
 
 
