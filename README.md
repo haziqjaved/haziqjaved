@@ -1,9 +1,8 @@
 ### Hi there 👋
 👋 Hi, I’m Haziq Javed, i haved done my graduation in software engineering from sir syed university of Engineering & Technology....
-👀 I also have a small experience in  Web develoment 
-//🌱 currently learning React Native..//
+👀 I also have a small experience in  Web development 
 💞️ Looking for fulltime jobs
-📫 How to reach me: haziqjaved31@gmail.com
+📫 How to reach me: haziqjaved31@gmail.com 
 
 
 
